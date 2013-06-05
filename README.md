@@ -61,7 +61,7 @@ Visualizing with Gephi
         * Select "Weight", input a "1", and select Ok
 	* Return to the graph by selecting the "Overview" tab in the upper-left
 * From here, skip to the use case you want to explore.  These will provide filtering examples to narrow down the space you're investigating.  Then, when you're navigating through the graph, refer to the "Navigating in Gephi" section for basic operations.
-* If you want to save your graph, save it locally.  The gephi_settings.gephi file is read-only by design, and the logical-network-connections.gdf is overwritten with new data every hour.
+
 
 ## Navigating in Gephi
 * Zoom with mouse wheel
