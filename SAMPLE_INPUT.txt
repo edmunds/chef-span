@@ -1,0 +1,3 @@
+#node_name,ipaddress
+some.system.example.com,10.1.1.1
+some.box.example.com,10.2.2.2
